@@ -7,6 +7,8 @@ Desafio técnico Frontend de um sistema de monitoramento de equipamentos com vis
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-4.x-blue?logo=tailwindcss)
 ![Vitest](https://img.shields.io/badge/Tested%20with-Vitest-6E9ECF?logo=vitest)
 
+## [Link para a aplicação rodando online](https://frontend-equipment-map.vercel.app/)
+
 ## Entregues
 
 - [x] **Posições dos equipamentos**
